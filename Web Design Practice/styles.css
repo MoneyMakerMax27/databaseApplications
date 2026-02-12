@@ -1,0 +1,33 @@
+h1 {
+    text-align: center; 
+} 
+h2 { 
+    text-align: center;
+} 
+#bodytext{
+    font-size: 12pt;
+}
+body { 
+    background-color: forestgreen;
+    margin: 20px auto; 
+    color: darkgray; 
+    width: 1024px;
+    margin-top: 0;
+    margin-bottom: 0;}
+    #panda1 {
+        height: 250px;
+        float: left;
+        margin: 0 15px 10px 0;
+        margin-top: -400px;
+    }
+    #panda2 {
+        height: 250px;
+        float: right;
+        margin: 0 10px 15px 0;
+        margin-top: auto;
+        
+    }
+#wrapper{
+    text-align: center;
+    text-wrap: flex;
+}
